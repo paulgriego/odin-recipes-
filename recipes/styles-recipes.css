@@ -1,0 +1,33 @@
+.header1 {
+  font-weight: bold;
+  background-color: yellow;
+  color: green;
+}
+
+.lists {
+  font-weight: bold;
+  background-color: red;
+  color: white;
+}
+
+.header3 {
+  background-color: yellow;
+  color: green;
+}
+
+.background {
+  text-align: center;
+  background-color: blue;
+}
+
+.paragraph {
+  background-color: red;
+  color: white;
+}
+
+.links2 {
+  background-color: red;
+  color:white;
+  font-size: large;
+  font-weight: bold;
+}
