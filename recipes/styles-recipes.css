@@ -1,33 +1,34 @@
 .header1 {
   font-weight: bold;
-  background-color: yellow;
-  color: green;
+  background-color: rgb(32, 50, 57);
+  color: white;
 }
 
 .lists {
   font-weight: bold;
-  background-color: red;
-  color: white;
+  background-color: rgb(224, 221, 170);
+  color: black;
 }
 
 .header3 {
-  background-color: yellow;
-  color: green;
-}
-
-.background {
-  text-align: center;
-  background-color: blue;
-}
-
-.paragraph {
-  background-color: red;
+  background-color: rgb(32, 50, 57);
   color: white;
 }
 
+.background {
+  text-align:left
+  background-color: rgb(238, 237, 222);
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.paragraph {
+  background-color: rgb(224, 221, 170);
+  color: black;
+}
+
 .links2 {
-  background-color: red;
-  color:white;
+  background-color: rgb(224, 221, 170);
+  color:black;
   font-size: large;
   font-weight: bold;
 }
